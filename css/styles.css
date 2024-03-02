@@ -1,0 +1,43 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(229, 173, 135);
+    color:rgb(100, 52, 7);
+    }
+
+    h1{
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        text-transform: uppercase;
+
+    }
+
+    img{
+        border-radius: 50%;
+    }
+
+    .my-class {color: rgb(82, 55, 21);}
+    /*this is the title color, this is a note*/
+
+    .my-class2 {color: rgb(67, 44, 17);}
+    .my-font {font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;}
+    
+    a[target] 
+    {font-size: xx-large;}
+    
+
+a[target="_blank"] {
+        border: 5px dotted rgb(179, 127, 61);
+    
+    }
+
+    span, my-class,h1 {background-color: rgb(175, 123, 59);}
+
+    footer p {
+        font-size: large;
+    }
+
+
+main> ol {
+    font-size: x-small;
+}
+
+section~p{ color: blueviolet;}
